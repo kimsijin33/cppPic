@@ -18,5 +18,8 @@
     <ClCompile Include="input_param.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="p42.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
